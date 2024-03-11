@@ -1,3 +1,3 @@
 # todo
-lil calm todo project w html css java basics
+lil calm todo project w html css js basics
 
